@@ -1,0 +1,1 @@
+typedef uvm_sequencer#(base_tx) s_seq;
